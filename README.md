@@ -30,7 +30,7 @@
 <!-- To add twitter account later  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/TBD) -->
 
 ---
-
+<!--
 **GitHub Stats**:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brewv&show_icons=true&hide=stars&count_private=true&theme=radical)
@@ -39,5 +39,5 @@
 
 **Top Languages**:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brewv&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brewv&layout=compact&theme=radical) -->
 
