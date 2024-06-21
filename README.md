@@ -15,13 +15,6 @@
 
 ---
 
-**About Me**:
-- 🎓 Bachelor's degree in Computer Science
-- 👀 Interested in software development and open-source contributions
-- 🌱 Currently exploring advanced concepts in programming and software engineering
-- 💬 Ask me about Java, C, Scala, and Python
-
----
 
 **Connect with me**:
 
