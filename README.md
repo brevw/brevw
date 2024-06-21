@@ -2,7 +2,7 @@
 
 ---
 
-**BSc in Computer Science**
+**BSc in Computer Science @EPFL**
 
 ---
 
